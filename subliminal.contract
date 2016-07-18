@@ -1,0 +1,6 @@
+[Contractor Entry]
+Name=Descargar subtítulo
+Icon=download
+Description=Descargar subtítulo
+MimeType=video
+Exec=subliminal download -l es %F
