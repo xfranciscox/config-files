@@ -1,0 +1,48 @@
+.xfce4-panel#XfcePanelWindow {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+#whiskermenu-window {
+background-color: rgba(0,0,0,0.9);
+color: #ccc;
+}
+#whiskermenu-window * {
+border: transparent;
+outline: none;
+transition: 200ms;
+}
+#whiskermenu-window button {
+background-color: transparent;
+color: #ccc;
+}
+#whiskermenu-window button:hover {
+background-color: transparent;
+color: #fff;
+}
+#whiskermenu-window button:checked {
+background-color: transparent;
+color: #fff;
+}
+#whiskermenu-window treeview {
+background-color: transparent;
+color: #ccc;
+}
+#whiskermenu-window treeview:hover {
+background-color: transparent;
+color: #fff;
+}
+#whiskermenu-window iconview {
+background-color: transparent;
+color: #ccc;
+}
+#whiskermenu-window iconview:hover {
+background-color: #333;
+color: #fff;
+border-radius: 15px;
+}
+#whiskermenu-window entry {
+background-color: transparent;
+color: #ccc;
+border-radius: 15px;
+}
